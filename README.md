@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://kundan-threejs-portfolio.netlify.app/" target="_blank">
-      <img src="![Screenshot from 2024-11-09 22-23-52](https://github.com/user-attachments/assets/637b3f5d-5a1d-4237-b5b4-7eebf3805472)" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/637b3f5d-5a1d-4237-b5b4-7eebf3805472" alt="Project Banner">
     </a>
   <br />
 
