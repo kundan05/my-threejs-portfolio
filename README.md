@@ -52,7 +52,7 @@ Ensure you have the following installed:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/kundan05/my-threejs-portfolio
+git clone https://github.com/kundan05/my-threejs-portfolio.git
 ```
 
 **Installation**
